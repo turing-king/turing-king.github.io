@@ -1,7 +1,7 @@
 ---
 title: Yubikey爬坑
 date: 2018-03-15 14:03:48
-tags:[Yubikey,ArchLinux]
+tags: [Yubikey,ArchLinux]
 ---
 #Yubikey爬坑记录
 
