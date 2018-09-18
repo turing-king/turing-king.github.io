@@ -5,14 +5,14 @@
 # Site
 title: 学习使我快乐
 subtitle: 有限的人生有无限的可能
-description: turing-king的个人博客,记录成长
-author: turing-king
+description: turingking的个人博客,记录成长
+author: turingking
 language: zh
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: turing-king.github.io
+url: turingking.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
